@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\Conversor Universal\Conversor Universal\bin\Debug\Conversor Universal.exe.config
+C:\Users\Usuario\Documents\Conversor Universal\Conversor Universal\bin\Debug\Conversor Universal.exe
+C:\Users\Usuario\Documents\Conversor Universal\Conversor Universal\bin\Debug\Conversor Universal.pdb
+C:\Users\Usuario\Documents\Conversor Universal\Conversor Universal\obj\Debug\Conversor Universal.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Conversor Universal\Conversor Universal\obj\Debug\Conversor Universal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Conversor Universal\Conversor Universal\obj\Debug\Conversor Universal.exe
+C:\Users\Usuario\Documents\Conversor Universal\Conversor Universal\obj\Debug\Conversor Universal.pdb
